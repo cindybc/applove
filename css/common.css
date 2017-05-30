@@ -76,5 +76,12 @@ header{
 }
 
 .box-services{
-	
+	display: inline-block;
+	width: 30%;
+	margin-top: 63px;
+}
+
+.text-services{
+	font-size: 35px;
+	letter-spacing: 2px;
 }
