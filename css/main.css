@@ -24,6 +24,13 @@ body {
   background-color: #fff;
 }
 
+header{
+  position: fixed;
+  background: white;
+  width: 100%;
+  top:0;
+}
+
 img {
   vertical-align: middle;
 }
